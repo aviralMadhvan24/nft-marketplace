@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 🎴 Shinobi NFT Marketplace
 
@@ -455,4 +455,110 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile views" />
 
-</div>
+</div> -->
+
+# Hi there, I'm Aviral Madhvan 👋  
+
+🚀 Computer Science & Engineering Student | Full-Stack Developer | Web3 & AI Enthusiast  
+
+---
+
+## 🧠 About Me
+
+I am a Computer Science and Engineering undergraduate (Class of 2028) with a strong focus on **full-stack web development, scalable backend systems, and emerging technologies** like **Web3 and AI-powered applications**.
+
+I enjoy building real-world products, participating in hackathons, and turning complex ideas into clean, production-ready systems. I am currently working on scaling my own digital services platform **Click2Biz**, while continuously strengthening my fundamentals in system design and software engineering.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+
+---
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+---
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST-000?style=for-the-badge)
+
+---
+
+### **Databases & Caching**
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+
+---
+
+### **State, Queues & ORM**
+![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge)
+![BullMQ](https://img.shields.io/badge/BullMQ-000?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+
+---
+
+### **Web3**
+![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity)
+![Hardhat](https://img.shields.io/badge/Hardhat-000?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum)
+![MetaMask](https://img.shields.io/badge/MetaMask-000?style=for-the-badge&logo=metamask)
+
+---
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge)
+
+---
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚧 Current Focus
+- Scaling **Click2Biz** into a premium digital services platform  
+- Building **AI-powered web applications** using Python + React  
+- Advanced backend systems (queues, caching, performance)  
+- Web3 security & smart contract development  
+- Hackathons & internship-level projects  
+
+---
+
+## 📊 GitHub Stats
+![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AviralMadhvan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AviralMadhvan&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: *add link*
+- 🌐 Portfolio: *add link*
+- 📧 Email: *add email*
+
+---
+
+⭐ *Always building. Always learning.*
+
