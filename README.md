@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+%2B+Web3+Engineer;Building+Scalable+SaaS+Products;Smart+Contract+Developer;Founder+%26+Tech+Lead+%40+Click2Biz;Turning+Ideas+into+Production+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/aviral-madhvan?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=F75C7E)](https://github.com/aviral-madhvan)
+[![GitHub followers](https://img.shields.io/github/followers/aviralMadhvan24?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=F75C7E)](https://github.com/aviralMadhvan24)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aviralmadhvan?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27&color=1DA1F2)](https://twitter.com/aviralmadhvan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/aviralmadhvan)
 
@@ -120,8 +120,8 @@ const aviralMadhvan = {
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aviral-madhvan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviral-madhvan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aviralMadhvan24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralMadhvan24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
